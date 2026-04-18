@@ -1,0 +1,101 @@
+review_id,product_name,category,review_text,sentiment,is_seeded,timestamp
+NM0090,NutriMix Blender,Food,motor garam ho gaya,negative,True,2024-10-17T00:00:00
+NM0039,NutriMix Blender,Food,Cleaning is super easy 🤔 😐,positive,False,2024-08-27T00:00:00
+NM0037,NutriMix Blender,Food,Smoothies banane mein bahut aesy,positive,False,2024-08-25T00:00:00
+NM0043,NutriMix Blender,Food,Blends ice cubes like butter,neutral,False,2024-08-31T00:00:00
+NM0028,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-08-16T00:00:00
+NM0011,NutriMix Blender,Food,Cleaning is super easy,positive,False,2024-07-30T00:00:00
+NM0083,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-10-10T00:00:00
+NM0050,NutriMix Blender,Food,"Compact design, fits in kitchen 😐 📦",neutral,False,2024-09-07T00:00:00
+NM0003,NutriMix Blender,Food,Warranty coverage acha hai 👍,positive,False,2024-07-22T00:00:00
+NM0014,NutriMix Blender,Food,Noise bahut zyada hai,negative,False,2024-08-02T00:00:00
+NM0040,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-08-28T00:00:00
+NM0063,NutriMix Blender,Food,Cleaning is super easy,neutral,False,2024-09-20T00:00:00
+NM0070,NutriMix Blender,Food,"Compact design, fits in kitchen",positive,False,2024-09-27T00:00:00
+NM0027,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-08-15T00:00:00
+NM0096,NutriMix Blender,Food,Warranty coverage acha hai ❤️ 🙏,positive,False,2024-10-23T00:00:00
+NM0005,NutriMix Blender,Food,Smoothies banane mein bahut easy 📦,positive,False,2024-07-24T00:00:00
+NM0061,NutriMix Blender,Food,Blends ice cubes like butter,positive,False,2024-09-18T00:00:00
+NM0019,NutriMix Blender,Food,Jar material could be better 📦,negative,False,2024-08-07T00:00:00
+NM0036,NutriMix Blender,Food,"Powerful motor, grinds everyting",neutral,False,2024-08-24T00:00:00
+NM0034,NutriMix Blender,Food,"Powerful motor, grinds everything",neutral,False,2024-08-22T00:00:00
+NM0084,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-10-11T00:00:00
+NM0073,NutriMix Blender,Food,motor garam ho gaya,negative,True,2024-09-30T00:00:00
+NM0041,NutriMix Blender,Food,Multiple speed options useful hain,positive,False,2024-08-29T00:00:00
+NM0006,NutriMix Blender,Food,Jar material could be better,negative,False,2024-07-25T00:00:00
+NM0033,NutriMix Blender,Food,Best blender in this ...,positive,False,2024-08-21T00:00:00
+NM0015,NutriMix Blender,Food,Smoothies banane mein bahut easy,neutral,False,2024-08-03T00:00:00
+NM0054,NutriMix Blender,Food,motor se burning smell aa rahi hai,negative,True,2024-09-11T00:00:00
+NM0022,NutriMix Blender,Food,"Compact design, fits in kitchen",positive,False,2024-08-10T00:00:00
+NM0078,NutriMix Blender,Food,Noise bahut zyada hai,negative,False,2024-10-05T00:00:00
+NM0045,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-09-02T00:00:00
+NM0008,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-07-27T00:00:00
+NM0080,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-10-07T00:00:00
+NM0065,NutriMix Blender,Food,Best blender in this price range 😊,positive,False,2024-09-22T00:00:00
+NM0012,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-07-31T00:00:00
+NM0030,NutriMix Blender,Food,"Powerful motor, grinds everything",neutral,False,2024-08-18T00:00:00
+NM0091,NutriMix Blender,Food,overheating issue in motor,negative,True,2024-10-18T00:00:00
+NM0032,NutriMix Blender,Food,Blends ice cubes like butter,positive,False,2024-08-20T00:00:00
+NM0058,NutriMix Blender,Food,burning smell jaise kuch jal raha ho,negative,True,2024-09-15T00:00:00
+NM0016,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-08-04T00:00:00
+NM0064,NutriMix Blender,Food,Multiple speed options useful hain,positive,False,2024-09-21T00:00:00
+NM0097,NutriMix Blender,Food,"Powerful motor, grinds everything 🤔",positive,False,2024-10-24T00:00:00
+NM0088,NutriMix Blender,Food,burning odor from motor,negative,True,2024-10-15T00:00:00
+NM0071,NutriMix Blender,Food,Jar material could be better,negative,False,2024-09-28T00:00:00
+NM0081,NutriMix Blender,Food,Blends ice cubes like butter,positive,False,2024-10-08T00:00:00
+NM0067,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-09-24T00:00:00
+NM0000,NutriMix Blender,Food,"Compact design, fits in kitchen",positive,False,2024-07-19T00:00:00
+NM0068,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-09-25T00:00:00
+NM0098,NutriMix Blender,Food,motor burnt out after 2 uses 🔌 💭,negative,True,2024-10-25T00:00:00
+NM0018,NutriMix Blender,Food,Noise bahut zyada hai,negative,False,2024-08-06T00:00:00
+NM0086,NutriMix Blender,Food,"Compact design, fits in kitchen 💭",positive,False,2024-10-13T00:00:00
+NM0062,NutriMix Blender,Food,overheating issue in motor,negative,True,2024-09-19T00:00:00
+NM0075,NutriMix Blender,Food,motor burnt out after 2 uses 💭 🤔,negative,True,2024-10-02T00:00:00
+NM0009,NutriMix Blender,Food,Blends ice cubes like butter,neutral,False,2024-07-28T00:00:00
+NM0026,NutriMix Blender,Food,Smoothies banane mein bahut easy,positive,False,2024-08-14T00:00:00
+NM0013,NutriMix Blender,Food,Blends ice cubes like butter,positive,False,2024-08-01T00:00:00
+NM0055,NutriMix Blender,Food,burning smell jaise kuch jal raha ho,negative,True,2024-09-12T00:00:00
+NM0024,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-08-12T00:00:00
+NM0029,NutriMix Blender,Food,Blends ice cubes like butter,neutral,False,2024-08-17T00:00:00
+NM0082,NutriMix Blender,Food,Cleaning is super easy,neutral,False,2024-10-09T00:00:00
+NM0021,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-08-09T00:00:00
+NM0094,NutriMix Blender,Food,Noise bahut zyada hai,negative,False,2024-10-21T00:00:00
+NM0038,NutriMix Blender,Food,Multiple speed options useful hain,positive,False,2024-08-26T00:00:00
+NM0025,NutriMix Blender,Food,Price ke hisaab se thoda basic,negative,False,2024-08-13T00:00:00
+NM0004,NutriMix Blender,Food,Smoothies banane mein bahut easy 💭,neutral,False,2024-07-23T00:00:00
+NM0099,NutriMix Blender,Food,Jar material could be better,negative,False,2024-10-26T00:00:00
+NM0020,NutriMix Blender,Food,"Compact design, fits in kitcen",positive,False,2024-08-08T00:00:00
+NM0053,NutriMix Blender,Food,Noise bahut zyada hai 💭,negative,False,2024-09-10T00:00:00
+NM0089,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-10-16T00:00:00
+NM0047,NutriMix Blender,Food,"Compact design, fits in kitchen",positive,False,2024-09-04T00:00:00
+NM0001,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-07-20T00:00:00
+NM0056,NutriMix Blender,Food,Best blender in this price range 😊,positive,False,2024-09-13T00:00:00
+NM0057,NutriMix Blender,Food,Best blender in this price range,positive,False,2024-09-14T00:00:00
+NM0048,NutriMix Blender,Food,Jar material could be better,negative,False,2024-09-05T00:00:00
+NM0031,NutriMix Blender,Food,"Powerful motor, grinds everything",positive,False,2024-08-19T00:00:00
+NM0010,NutriMix Blender,Food,Cleaning is super easy 😐 🤔,positive,False,2024-07-29T00:00:00
+NM0060,NutriMix Blender,Food,Best blender in this price range,neutral,False,2024-09-17T00:00:00
+NM0035,NutriMix Blender,Food,"Compact design, fits in kitchen 🔌",positive,False,2024-08-23T00:00:00
+NM0093,NutriMix Blender,Food,burning smell jaise kuc jal raha ho,negative,True,2024-10-20T00:00:00
+NM0074,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-10-01T00:00:00
+NM0007,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-07-26T00:00:00
+NM0066,NutriMix Blender,Food,motor garam ho gaya,negative,True,2024-09-23T00:00:00
+NM0092,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-10-19T00:00:00
+NM0017,NutriMix Blender,Food,Warranty coverage acha hai 👍 ⭐,neutral,False,2024-08-05T00:00:00
+NM0046,NutriMix Blender,Food,Warranty coverage acha hai,neutral,False,2024-09-03T00:00:00
+NM0042,NutriMix Blender,Food,Warranty coverage acha hai,neutral,False,2024-08-30T00:00:00
+NM0085,NutriMix Blender,Food,Jar material could be better,negative,False,2024-10-12T00:00:00
+NM0072,NutriMix Blender,Food,Warranty coverage acha hai,positive,False,2024-09-29T00:00:00
+NM0076,NutriMix Blender,Food,Multiple speed options useful hain,positive,False,2024-10-03T00:00:00
+NM0059,NutriMix Blender,Food,Multiple speed options useful hain,positive,False,2024-09-16T00:00:00
+NM0095,NutriMix Blender,Food,smell of burnng plastic,negative,True,2024-10-22T00:00:00
+NM0049,NutriMix Blender,Food,Cleaning is super easy,positive,False,2024-09-06T00:00:00
+NM0023,NutriMix Blender,Food,"Powerful motor, grinds everything",neutral,False,2024-08-11T00:00:00
+NM0079,NutriMix Blender,Food,Cleaning is super easy,positive,False,2024-10-06T00:00:00
+NM0002,NutriMix Blender,Food,Jar material could be better,negative,False,2024-07-21T00:00:00
+NM0087,NutriMix Blender,Food,smell of burning plastic,negative,True,2024-10-14T00:00:00
+NM0044,NutriMix Blender,Food,Best blender in this price range,neutral,False,2024-09-01T00:00:00
+NM0069,NutriMix Blender,Food,Blends ice cubes like butter,positive,False,2024-09-26T00:00:00
+NM0051,NutriMix Blender,Food,overheating issue in motor,negative,True,2024-09-08T00:00:00
+NM0077,NutriMix Blender,Food,"Powerful motor, grinds everything",neutral,False,2024-10-04T00:00:00
+NM0052,NutriMix Blender,Food,"Compact design, fits in kitchen",positive,False,2024-09-09T00:00:00

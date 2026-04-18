@@ -1,0 +1,151 @@
+review_id,product_name,category,review_text,sentiment,is_seeded,timestamp
+SB0113,SmartBottle Pro,Personal Care,Cap khula hua tha 🔌 📦,negative,True,2024-04-23T00:00:00
+SB0001,SmartBottle Pro,Personal Care,"Heavy bottle, carry karna mushkil 😐 🤔",negative,False,2024-01-02T00:00:00
+SB0148,SmartBottle Pro,Personal Care,bottle cap tight nahi tha,negative,True,2024-05-28T00:00:00
+SB0055,SmartBottle Pro,Personal Care,liquid leak ho gaya 🔌,negative,True,2024-02-25T00:00:00
+SB0095,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",positive,False,2024-04-05T00:00:00
+SB0135,SmartBottle Pro,Personal Care,leaked completely,negative,True,2024-05-15T00:00:00
+SB0031,SmartBottle Pro,Personal Care,Works perfectly for gym use,neutral,False,2024-02-01T00:00:00
+SB0061,SmartBottle Pro,Personal Care,Stainless steel quality top notch,neutral,False,2024-03-02T00:00:00
+SB0099,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-04-09T00:00:00
+SB0074,SmartBottle Pro,Personal Care,Temperature control accurate hai,positive,False,2024-03-15T00:00:00
+SB0132,SmartBottle Pro,Personal Care,cap came loose,negative,True,2024-05-12T00:00:00
+SB0079,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-03-20T00:00:00
+SB0003,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-01-04T00:00:00
+SB0058,SmartBottle Pro,Personal Care,Love the temperature display faeture,positive,False,2024-02-28T00:00:00
+SB0118,SmartBottle Pro,Personal Care,leaked completely 😐,negative,True,2024-04-28T00:00:00
+SB0134,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-05-14T00:00:00
+SB0097,SmartBottle Pro,Personal Care,Temperature control accurate hai,neutral,False,2024-04-07T00:00:00
+SB0035,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",neutral,False,2024-02-05T00:00:00
+SB0128,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice 🙏",positive,False,2024-05-08T00:00:00
+SB0077,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-03-18T00:00:00
+SB0143,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-05-23T00:00:00
+SB0020,SmartBottle Pro,Personal Care,Value for money product,neutral,False,2024-01-21T00:00:00
+SB0016,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice ❤️ ❤️",neutral,False,2024-01-17T00:00:00
+SB0071,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-03-12T00:00:00
+SB0009,SmartBottle Pro,Personal Care,Price thoda zyada hai,negative,False,2024-01-10T00:00:00
+SB0054,SmartBottle Pro,Personal Care,Temperature control accurate hai 🔌,positive,False,2024-02-24T00:00:00
+SB0101,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha",positive,False,2024-04-11T00:00:00
+SB0091,SmartBottle Pro,Personal Care,packaging mein dikkat thi 💭,negative,True,2024-04-01T00:00:00
+SB0129,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-05-09T00:00:00
+SB0136,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-05-16T00:00:00
+SB0124,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-05-04T00:00:00
+SB0094,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-04-04T00:00:00
+SB0102,SmartBottle Pro,Personal Care,Value for money product,neutral,False,2024-04-12T00:00:00
+SB0015,SmartBottle Pro,Personal Care,Value for money product,neutral,False,2024-01-16T00:00:00
+SB0064,SmartBottle Pro,Personal Care,"Build quality achi hai,",positive,False,2024-03-05T00:00:00
+SB0004,SmartBottle Pro,Personal Care,"Lid opens slowly, patience chahiye",negative,False,2024-01-05T00:00:00
+SB0116,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-04-26T00:00:00
+SB0038,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-02-08T00:00:00
+SB0083,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-03-24T00:00:00
+SB0073,SmartBottle Pro,Personal Care,Love the temperature display feature,neutral,False,2024-03-14T00:00:00
+SB0068,SmartBottle Pro,Personal Care,Temperature control accurate hai 🤔,neutral,False,2024-03-09T00:00:00
+SB0120,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-04-30T00:00:00
+SB0093,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha",neutral,False,2024-04-03T00:00:00
+SB0070,SmartBottle Pro,Personal Care,Keeps water cold ...,neutral,False,2024-03-11T00:00:00
+SB0029,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",neutral,False,2024-01-30T00:00:00
+SB0131,SmartBottle Pro,Personal Care,Value for money product 🤔,neutral,False,2024-05-11T00:00:00
+SB0133,SmartBottle Pro,Personal Care,Temperature control accurate hai 💭 🤔,neutral,False,2024-05-13T00:00:00
+SB0044,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-02-14T00:00:00
+SB0130,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-05-10T00:00:00
+SB0034,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-02-04T00:00:00
+SB0117,SmartBottle Pro,Personal Care,Cap khula hua tha 🔌 📦,negative,True,2024-04-27T00:00:00
+SB0059,SmartBottle Pro,Personal Care,Love the temperature display feature 🤔,positive,False,2024-02-29T00:00:00
+SB0106,SmartBottle Pro,Personal Care,Temperature control accurate hai,neutral,False,2024-04-16T00:00:00
+SB0149,SmartBottle Pro,Personal Care,cap came loose,negative,True,2024-05-29T00:00:00
+SB0047,SmartBottle Pro,Personal Care,Temperature control accurate hai,positive,False,2024-02-17T00:00:00
+SB0049,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-02-19T00:00:00
+SB0082,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",neutral,False,2024-03-23T00:00:00
+SB0033,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-02-03T00:00:00
+SB0062,SmartBottle Pro,Personal Care,Display battery jaldi drain hoti hai,negative,False,2024-03-03T00:00:00
+SB0121,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-05-01T00:00:00
+SB0050,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-02-20T00:00:00
+SB0137,SmartBottle Pro,Personal Care,"Keeps water cold for hurs, very nice",positive,False,2024-05-17T00:00:00
+SB0014,SmartBottle Pro,Personal Care,Price thoda zyada hai,negative,False,2024-01-15T00:00:00
+SB0108,SmartBottle Pro,Personal Care,Value for money product,positive,False,2024-04-18T00:00:00
+SB0142,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-05-22T00:00:00
+SB0021,SmartBottle Pro,Personal Care,Stainless steel quality top notch,neutral,False,2024-01-22T00:00:00
+SB0006,SmartBottle Pro,Personal Care,Stainless steel quality top notch 🔌 🤔,neutral,False,2024-01-07T00:00:00
+SB0109,SmartBottle Pro,Personal Care,bottle cap tight ...,negative,True,2024-04-19T00:00:00
+SB0092,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-04-02T00:00:00
+SB0039,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-02-09T00:00:00
+SB0125,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-05-05T00:00:00
+SB0024,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-01-25T00:00:00
+SB0076,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-03-17T00:00:00
+SB0138,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",positive,False,2024-05-18T00:00:00
+SB0141,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-05-21T00:00:00
+SB0104,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu 💭",positive,False,2024-04-14T00:00:00
+SB0048,SmartBottle Pro,Personal Care,Love the temperature display feature 😐,positive,False,2024-02-18T00:00:00
+SB0052,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-02-22T00:00:00
+SB0013,SmartBottle Pro,Personal Care,laeked completely,negative,True,2024-01-14T00:00:00
+SB0040,SmartBottle Pro,Personal Care,packaging mein dikkat thi,negative,True,2024-02-10T00:00:00
+SB0111,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-04-21T00:00:00
+SB0110,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-04-20T00:00:00
+SB0007,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-01-08T00:00:00
+SB0123,SmartBottle Pro,Personal Care,Love the temperature display feature 🔌,positive,False,2024-05-03T00:00:00
+SB0086,SmartBottle Pro,Personal Care,Price thoda zyada hai 🔌,negative,False,2024-03-27T00:00:00
+SB0023,SmartBottle Pro,Personal Care,Temperature control accurate hai,positive,False,2024-01-24T00:00:00
+SB0140,SmartBottle Pro,Personal Care,packing bilkul bakwas 🤦 👎,negative,True,2024-05-20T00:00:00
+SB0043,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",neutral,False,2024-02-13T00:00:00
+SB0087,SmartBottle Pro,Personal Care,"Lid opens slowly, patience chahiye",negative,False,2024-03-28T00:00:00
+SB0005,SmartBottle Pro,Personal Care,Temperature control accurate hai,positive,False,2024-01-06T00:00:00
+SB0018,SmartBottle Pro,Personal Care,Value for money product,positive,False,2024-01-19T00:00:00
+SB0115,SmartBottle Pro,Personal Care,Stainless steel quality top notch 💭,neutral,False,2024-04-25T00:00:00
+SB0041,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-02-11T00:00:00
+SB0057,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha ...",neutral,False,2024-02-27T00:00:00
+SB0147,SmartBottle Pro,Personal Care,Display battery jaldi drain hoti hai,negative,False,2024-05-27T00:00:00
+SB0122,SmartBottle Pro,Personal Care,Value for money product 📦 💭,positive,False,2024-05-02T00:00:00
+SB0025,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha",positive,False,2024-01-26T00:00:00
+SB0139,SmartBottle Pro,Personal Care,packaging mein dikkat thi,negative,True,2024-05-19T00:00:00
+SB0126,SmartBottle Pro,Personal Care,cap came loose,negative,True,2024-05-06T00:00:00
+SB0105,SmartBottle Pro,Personal Care,Cap khula hua tha,negative,True,2024-04-15T00:00:00
+SB0107,SmartBottle Pro,Personal Care,Value for money product,neutral,False,2024-04-17T00:00:00
+SB0098,SmartBottle Pro,Personal Care,"Lid opens slowly, patience chahiye",negative,False,2024-04-08T00:00:00
+SB0012,SmartBottle Pro,Personal Care,"Stylish design, friends ne puca kahan se liya",positive,False,2024-01-13T00:00:00
+SB0027,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",neutral,False,2024-01-28T00:00:00
+SB0065,SmartBottle Pro,Personal Care,seal broken on delivery,negative,True,2024-03-06T00:00:00
+SB0017,SmartBottle Pro,Personal Care,Temperature control accurate hai ...,neutral,False,2024-01-18T00:00:00
+SB0063,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-03-04T00:00:00
+SB0053,SmartBottle Pro,Personal Care,Value for money product,positive,False,2024-02-23T00:00:00
+SB0067,SmartBottle Pro,Personal Care,seal broken on delivery,negative,True,2024-03-08T00:00:00
+SB0002,SmartBottle Pro,Personal Care,Love the temperature display feature 📦 😐,positive,False,2024-01-03T00:00:00
+SB0085,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-03-26T00:00:00
+SB0022,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",neutral,False,2024-01-23T00:00:00
+SB0042,SmartBottle Pro,Personal Care,Temperature control accurate hai,positive,False,2024-02-12T00:00:00
+SB0088,SmartBottle Pro,Personal Care,Cap khula hua tha 🤔,negative,True,2024-03-29T00:00:00
+SB0060,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",neutral,False,2024-03-01T00:00:00
+SB0084,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya 🤔 💭",positive,False,2024-03-25T00:00:00
+SB0036,SmartBottle Pro,Personal Care,Value for money product 😐 😐,neutral,False,2024-02-06T00:00:00
+SB0127,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-05-07T00:00:00
+SB0026,SmartBottle Pro,Personal Care,"Stylish design, friends ne pucha kahan se liya",positive,False,2024-01-27T00:00:00
+SB0144,SmartBottle Pro,Personal Care,packng bilkul bakwas,negative,True,2024-05-24T00:00:00
+SB0081,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-03-22T00:00:00
+SB0008,SmartBottle Pro,Personal Care,Works perfectly for gym use,neutral,False,2024-01-09T00:00:00
+SB0145,SmartBottle Pro,Personal Care,seal broken on delivery 😤 😞,negative,True,2024-05-25T00:00:00
+SB0100,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-04-10T00:00:00
+SB0146,SmartBottle Pro,Personal Care,cap came loose 😐,negative,True,2024-05-26T00:00:00
+SB0045,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-02-15T00:00:00
+SB0032,SmartBottle Pro,Personal Care,Value for money product 🤔 🤔,positive,False,2024-02-02T00:00:00
+SB0078,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",positive,False,2024-03-19T00:00:00
+SB0114,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-04-24T00:00:00
+SB0080,SmartBottle Pro,Personal Care,Love the temperature display feature 📦 😐,neutral,False,2024-03-21T00:00:00
+SB0069,SmartBottle Pro,Personal Care,Price thoda zyada hai,negative,False,2024-03-10T00:00:00
+SB0051,SmartBottle Pro,Personal Care,Keeps water cold,neutral,False,2024-02-21T00:00:00
+SB0037,SmartBottle Pro,Personal Care,Stainless steel quality top notch,neutral,False,2024-02-07T00:00:00
+SB0056,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-02-26T00:00:00
+SB0072,SmartBottle Pro,Personal Care,Display battery jaldi drain hoti hai,negative,False,2024-03-13T00:00:00
+SB0075,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",neutral,False,2024-03-16T00:00:00
+SB0011,SmartBottle Pro,Personal Care,Stainless steel quality top notch,positive,False,2024-01-12T00:00:00
+SB0030,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu",positive,False,2024-01-31T00:00:00
+SB0090,SmartBottle Pro,Personal Care,Stainless steel quality top notch 🤔,neutral,False,2024-03-31T00:00:00
+SB0066,SmartBottle Pro,Personal Care,"Keeps water cold for hours, very nice",positive,False,2024-03-07T00:00:00
+SB0103,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-04-13T00:00:00
+SB0000,SmartBottle Pro,Personal Care,"Build quality achi hai, recommend karta hu 💭",positive,False,2024-01-01T00:00:00
+SB0010,SmartBottle Pro,Personal Care,Love the temperature display feature,neutral,False,2024-01-11T00:00:00
+SB0112,SmartBottle Pro,Personal Care,Love the temperature display feature,neutral,False,2024-04-22T00:00:00
+SB0119,SmartBottle Pro,Personal Care,leaked completely,negative,True,2024-04-29T00:00:00
+SB0028,SmartBottle Pro,Personal Care,Love the temperature display,positive,False,2024-01-29T00:00:00
+SB0046,SmartBottle Pro,Personal Care,packing bilkul bakwas,negative,True,2024-02-16T00:00:00
+SB0019,SmartBottle Pro,Personal Care,Love the temperature display feature,positive,False,2024-01-20T00:00:00
+SB0089,SmartBottle Pro,Personal Care,Works perfectly for gym use,positive,False,2024-03-30T00:00:00
+SB0096,SmartBottle Pro,Personal Care,Display battery jaldi ...,negative,False,2024-04-06T00:00:00

@@ -1,0 +1,51 @@
+review_id,product_name,category,review_text,sentiment,is_seeded,timestamp
+BC0018,BoltCharge 20W,Electronics,Adapter bulky hai 🔌,negative,False,2024-06-17T00:00:00
+BC0020,BoltCharge 20W,Electronics,wire tutne lagi hai,negative,True,2024-06-19T00:00:00
+BC0010,BoltCharge 20W,Electronics,wire tutne lagi hai,negative,True,2024-06-09T00:00:00
+BC0042,BoltCharge 20W,Electronics,20W mein itni speed unexpected,positive,False,2024-07-11T00:00:00
+BC0011,BoltCharge 20W,Electronics,20W mein itni speed unexpected,positive,False,2024-06-10T00:00:00
+BC0017,BoltCharge 20W,Electronics,20W mein itni speed unexpected,positive,False,2024-06-16T00:00:00
+BC0023,BoltCharge 20W,Electronics,Cable length perfect hai,positive,False,2024-06-22T00:00:00
+BC0000,BoltCharge 20W,Electronics,Only one port available,negative,False,2024-05-30T00:00:00
+BC0039,BoltCharge 20W,Electronics,No heatng issue during chargng,positive,False,2024-07-08T00:00:00
+BC0033,BoltCharge 20W,Electronics,charging wire weak quality 🔌,negative,True,2024-07-02T00:00:00
+BC0009,BoltCharge 20W,Electronics,20W mein itni speed unexpected,positive,False,2024-06-08T00:00:00
+BC0046,BoltCharge 20W,Electronics,No heating issue during charging,neutral,False,2024-07-15T00:00:00
+BC0044,BoltCharge 20W,Electronics,Cable length perfect hai,neutral,False,2024-07-13T00:00:00
+BC0014,BoltCharge 20W,Electronics,charging wire weak quality 💭 💭,negative,True,2024-06-13T00:00:00
+BC0001,BoltCharge 20W,Electronics,Cable length perfect hai,neutral,False,2024-05-31T00:00:00
+BC0038,BoltCharge 20W,Electronics,cable durability bilkul bekar,negative,True,2024-07-07T00:00:00
+BC0035,BoltCharge 20W,Electronics,20W mein itni speed unexpected,neutral,False,2024-07-04T00:00:00
+BC0049,BoltCharge 20W,Electronics,Price compared to others thoda high,negative,False,2024-07-18T00:00:00
+BC0003,BoltCharge 20W,Electronics,Adapter bulky hai,negative,False,2024-06-02T00:00:00
+BC0048,BoltCharge 20W,Electronics,Phone 30 min mein 50% charge,positive,False,2024-07-17T00:00:00
+BC0005,BoltCharge 20W,Electronics,No LED indicator on charger,negative,False,2024-06-04T00:00:00
+BC0007,BoltCharge 20W,Electronics,cable fraying after 1 week,negative,True,2024-06-06T00:00:00
+BC0002,BoltCharge 20W,Electronics,Travel friendly compact size 💭,positive,False,2024-06-01T00:00:00
+BC0030,BoltCharge 20W,Electronics,Travel friendly compact size,positive,False,2024-06-29T00:00:00
+BC0045,BoltCharge 20W,Electronics,Phone 30 min mein 50% charge,neutral,False,2024-07-14T00:00:00
+BC0028,BoltCharge 20W,Electronics,No LED indicator on charger,negative,False,2024-06-27T00:00:00
+BC0025,BoltCharge 20W,Electronics,Cable length perfect hai,positive,False,2024-06-24T00:00:00
+BC0016,BoltCharge 20W,Electronics,Adapter build solid hai,positive,False,2024-06-15T00:00:00
+BC0034,BoltCharge 20W,Electronics,charging wire weak quality,negative,True,2024-07-03T00:00:00
+BC0027,BoltCharge 20W,Electronics,Travel friendly compact size,neutral,False,2024-06-26T00:00:00
+BC0021,BoltCharge 20W,Electronics,Travel friendly compact size 😐 🔌,positive,False,2024-06-20T00:00:00
+BC0031,BoltCharge 20W,Electronics,cable durability bilkul bekar,negative,True,2024-06-30T00:00:00
+BC0040,BoltCharge 20W,Electronics,Fast charging speed amazing,positive,False,2024-07-09T00:00:00
+BC0013,BoltCharge 20W,Electronics,20W mein itni speed unexpected,positive,False,2024-06-12T00:00:00
+BC0006,BoltCharge 20W,Electronics,Best charger for iPhone 😊,neutral,False,2024-06-05T00:00:00
+BC0047,BoltCharge 20W,Electronics,Phone 30 min mein 50% charge,positive,False,2024-07-16T00:00:00
+BC0029,BoltCharge 20W,Electronics,Adapter build solid hai 💭,positive,False,2024-06-28T00:00:00
+BC0026,BoltCharge 20W,Electronics,Fast charging speed amazing,positive,False,2024-06-25T00:00:00
+BC0037,BoltCharge 20W,Electronics,Cable length perfect hai,neutral,False,2024-07-06T00:00:00
+BC0043,BoltCharge 20W,Electronics,Travel friendly compact size,positive,False,2024-07-12T00:00:00
+BC0032,BoltCharge 20W,Electronics,Adapter bulky hai,negative,False,2024-07-01T00:00:00
+BC0012,BoltCharge 20W,Electronics,cable junction se break ...,negative,True,2024-06-11T00:00:00
+BC0004,BoltCharge 20W,Electronics,Price compared to others thoda high,negative,False,2024-06-03T00:00:00
+BC0022,BoltCharge 20W,Electronics,charging wire weak quality,negative,True,2024-06-21T00:00:00
+BC0041,BoltCharge 20W,Electronics,Cable length perfect hai,positive,False,2024-07-10T00:00:00
+BC0036,BoltCharge 20W,Electronics,cable junction se break ho gaya,negative,True,2024-07-05T00:00:00
+BC0015,BoltCharge 20W,Electronics,Phone 30 min mein 50% charge,positive,False,2024-06-14T00:00:00
+BC0024,BoltCharge 20W,Electronics,Phone 30 min mein 50% charge,neutral,False,2024-06-23T00:00:00
+BC0019,BoltCharge 20W,Electronics,Travel friendly compact size,neutral,False,2024-06-18T00:00:00
+BC0008,BoltCharge 20W,Electronics,wire mein crack aa gaya,negative,True,2024-06-07T00:00:00
